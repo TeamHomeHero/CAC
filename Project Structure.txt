@@ -1,0 +1,12 @@
+Project Structure:
+
+📁 monthly_task_webapp
+  📁 frontend
+    📄 index.html
+    📄 styles.css
+    📄 app.js
+  📁 backend
+    📄 app.py
+  📁 database
+    📄 tasks.db
+  📄 requirements.txt
